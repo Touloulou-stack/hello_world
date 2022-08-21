@@ -1,2 +1,3 @@
-# hello_world
-first repo ! i'm a dev soon
+# Test Git
+
+Nous travaillons sur les branches de Git !
